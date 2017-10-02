@@ -1,0 +1,12 @@
+---
+layout: default
+title: "SharksandPuzzles"
+---	
+
+test page
+
+
+<div class="blurb">
+   	<h1>Hi, I'm Abby!</h1>
+	<p>I like <a href="/blog">Sharks</a>! And <a href="/blog">Puzzles</a>! <a href="/about">Read more about my life...</a></p>
+</div><!-- /.blurb -->
