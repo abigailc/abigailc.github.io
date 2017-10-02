@@ -1,4 +1,3 @@
-name:"Sharks & Puzzles"
-markdown:kramdown
-theme:jekyll-theme-minimal
+name: "Sharks & Puzzles"
+theme: jekyll-theme-minimal
 permalink: /blog/:year/:month/:day/:title
