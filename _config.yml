@@ -1,3 +1,4 @@
 name: "Sharks & Puzzles"
 theme: jekyll-theme-minimal
 markdown: kramdown
+theme: jekyll-whiteglass
