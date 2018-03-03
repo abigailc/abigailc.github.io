@@ -1,3 +1,6 @@
 name: "Sharks & Puzzles"
-##theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 markdown: kramdown
+
+plugins:
+  - jemoji
